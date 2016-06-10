@@ -1,5 +1,5 @@
 # ui-style-guide
 Style Guide for Trama Platform
 
-##References
+###References
 http://styleguides.io/
